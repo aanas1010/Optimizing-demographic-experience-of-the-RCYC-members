@@ -1,4 +1,4 @@
-# Optimizing demographic experience of the RCYC-members
+# Optimizing demographic experience of the RCYC members
 
 **Authors:** Steven Yeretsian, Kiana Ravanasa, Aabid Anas, Elliot Min
 
